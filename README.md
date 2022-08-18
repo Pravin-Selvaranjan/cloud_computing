@@ -1,6 +1,11 @@
 # CLOUD COMPUTING
 
 
+![Blank diagram (3)](https://user-images.githubusercontent.com/110179866/185412518-d35eacf2-1c73-4f85-b971-82ad50675091.jpeg)
+
+
+
+
 
 Purchasing a laptop
 
