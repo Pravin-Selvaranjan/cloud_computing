@@ -197,3 +197,70 @@ dependencies required (nginx,nodejs)
 
 
 
+# What is Cloud Computing? 
+
+- Servers, databases, networks, storage drives, and the list go on. All of these things are now deliverable and usable over the internet and have been for some time. We typically pay for only the specific services we use, resulting in a very cost-effective formula. 
+
+
+- On-demand
+ On-demand self service resource sourcing is a prime feature of most cloud offerings where the user can scale the required infrastructure up to a substantial level without disrupting the service
+
+- Elastic rapid provision and release
+Rapid elasticity allows users to automatically request additional space in the cloud or other types of services. Because of the setup of cloud computing services, provisioning can be seamless for the user
+
+
+- Metered service
+The user or customer has access to an incredible amount of resources but only pays for what they actually use. 
+It is estimated that by 2025, over 100 zettabytes of data will be stored in the cloud. By comparison only 25% of all computing data was stored this way just 7 years ago in 2015. This is a mammoth statistic and demonstrates the rapid expansiveness of the cloud.
+
+
+# Benefits of Cloud Computing?
+
+- Lower costs - Cloud computing is more cost effective than traditional IT infrastructure due to methods of payment for the data storage services. With cloud based services, you only pay for what is used – similarly to how you pay for utilities such as electricity. Furthermore, the decreased likelihood of downtime means improved workplace performance and increased profits in the long run.
+
+- Collaboration - Cloud environments enables better collaboration across teams: developers, QA, operations, security and product architects are all exposed to the same infrastructure and can operate simultaniously without stepping on each other toes. Cloud roles and permissions help with better visibility and monitoring on who did what and when, to avoid conflicts and confusion. Different cloud environments can be built for specific purposes like staging, QA, demo or pre-production. It’s much easier to collaborate in a transparent manner and the cloud encourages it.
+
+
+- Agile and Adaptable - Cloud computing services are great for businesses whose demands constantly grow or fluctuate. Whether you require more bandwidth or want to reduce capacity, your cloud service provider can adapt to your demands, so you’ll never have to pay for expensive upgrades. This can give you a real competitive edge because you get to retain total control and freedom over your IT infrastructure.  
+
+
+
+# Types of Cloud Computing
+
+- IaaS - Cloud infrastructure services, known as Infrastructure as a Service (IaaS), are made of highly scalable and automated compute resources. IaaS is fully self-service for accessing and monitoring computers, networking, storage, and other services. IaaS allows businesses to purchase resources on-demand and as-needed instead of having to buy hardware outright.
+
+
+- PaaS - Cloud platform services, also known as Platform as a Service (PaaS), provide cloud components to certain software while being used mainly for applications. PaaS delivers a framework for developers that they can build upon and use to create customized applications. All servers, storage, and networking can be managed by the enterprise or a third-party provider while the developers can maintain management of the applications.
+
+
+
+- SaaS - Software as a Service, also known as cloud application services, represents the most commonly utilized option for businesses in the cloud market. SaaS utilizes the internet to deliver applications, which are managed by a third-party vendor, to its users. A majority of SaaS applications run directly through your web browser, which means they do not require any downloads or installations on the client side.
+
+
+- IaaS  - Key advantages are , Most flexible cloud computing model, making it easier to automate deployment of storage networking servers and processing power and its highly scalable. An example of IaaS would be AWS. 
+
+- SaaS – Key advantages  SaaS provides numerous advantages to employees and companies by greatly reducing the time and money spent on tedious tasks such as installing, managing, and upgrading software. This frees up plenty of time for technical staff to spend on more pressing matters and issues within the organization. An example of this would be something like Gmail
+
+- PaaS – Key advantages – Simple and cost effective, Highly available and significantly reduces the amount of required coding. An example of this would be something like Elastic Beanstalk. Elastic Beanstalk is a platform within AWS that is used for deploying and scaling web applications. In simple terms this platform as a service (PaaS) takes your application code and deploys it while provisioning the supporting architecture and compute resources required for your code to run.
+
+
+
+# Pro's and Con's
+
+### Advantages 
+-  No cost on infrastructure: In all types of Cloud computing (SaaS etc), one thing is common in that you don’t need to invest in hardware or any infrastructure. In general, every organization has to spend a lot on their IT infrastructure to set up and hire a specialized team.
+
+- Accessibility and pay per use - Cloud resources are easily accessible from around the globe – anytime, anywhere and from any device and you have complete access to your resources.
+This decides your billing also -you only pay for what you use and how much you use. It’s like your phone or electricity bill. But with other IT infrastructure, one spends the complete amount in one go and it is very very rare that those resources are used optimally and thus, the investment goes waste.
+
+### Disadvantages
+
+- Strong internet - To access your cloud services, you need to have a good internet connection always with good bandwidth to upload or download files to/from the cloud
+
+
+- Security - Security of data is a big concern for everyone. Since the public cloud utilizes the internet, your data may become vulnerable.
+
+
+- Vendor Lock-in- Although the cloud service providers assure you that they will allow you to switch or migrate to any other service provider whenever you want, it is a very difficult process.
+
+
