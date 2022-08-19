@@ -248,7 +248,7 @@ It is estimated that by 2025, over 100 zettabytes of data will be stored in the 
 # Pro's and Con's
 
 ### Advantages 
--  No cost on infrastructure: In all types of Cloud computing (SaaS etc), one thing is common in that you don’t need to invest in hardware or any infrastructure. In general, every organization has to spend a lot on their IT infrastructure to set up and hire a specialized team.
+-  No cost on infrastructure - In all types of Cloud computing (SaaS etc), one thing is common in that you don’t need to invest in hardware or any infrastructure. In general, every organization has to spend a lot on their IT infrastructure to set up and hire a specialized team.
 
 - Accessibility and pay per use - Cloud resources are easily accessible from around the globe – anytime, anywhere and from any device and you have complete access to your resources.
 This decides your billing also -you only pay for what you use and how much you use. It’s like your phone or electricity bill. But with other IT infrastructure, one spends the complete amount in one go and it is very very rare that those resources are used optimally and thus, the investment goes waste.
