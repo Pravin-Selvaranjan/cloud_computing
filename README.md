@@ -1,7 +1,7 @@
 # CLOUD COMPUTING
 
 
-![Blank diagram (3)](https://user-images.githubusercontent.com/110179866/185412518-d35eacf2-1c73-4f85-b971-82ad50675091.jpeg)
+![Blank diagram (4)](https://user-images.githubusercontent.com/110179866/185669444-81d1ba74-2acd-4eec-be7d-ab483831ba4e.jpeg)
 
 
 
