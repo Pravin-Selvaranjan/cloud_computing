@@ -298,3 +298,39 @@ There are 28 Wavelength Zones available for ultralow latency and 5G processing.
 
 - Then we continue on and select the other relevant settings and launch our instance, this may take longer than usual considering we are installing as we up the instance
 
+
+
+# AMI's and Imaging
+
+### If we wish to make an image of a particular VM we can do this using AMI (Amazon Machine Image)
+
+### This effectively captures the entirety of the VM and saves it in image that we can reload. This is more cost effective as stopping and starting an instance costs more than an AMI. 
+
+
+- Once you have your initial working instance (by following the steps further up in this repo) you can create an AMI of your instance
+
+- Select your instance and click on actions and then images and templates and finally create image
+
+(image)
+
+- Next you will be prompted to fill in certain details as below 
+
+(image)
+
+
+- Be sure to follow the naming convention when naming your AMI as you would with instances
+
+(image)
+
+
+- Below is the location of where to find your AMI once it has been made
+
+(image)
+
+
+- This location will show you a list of all available AMI's
+
+
+(image)
+
+
