@@ -1,7 +1,8 @@
 # CLOUD COMPUTING
 
 
-![Blank diagram (4)](https://user-images.githubusercontent.com/110179866/185669444-81d1ba74-2acd-4eec-be7d-ab483831ba4e.jpeg)
+![Blank diagram (5)](https://user-images.githubusercontent.com/110179866/185965418-aad9e3fc-2d6a-44cd-8701-a84d1f46db7f.jpeg)
+
 
 
 
@@ -294,9 +295,11 @@ There are 28 Wavelength Zones available for ultralow latency and 5G processing.
 
 - Once we are at Step 3 of the above instance creation steps if we scroll down we can see advanced settings
 
+<img width="959" alt="step3_config_inst_details" src="https://user-images.githubusercontent.com/110179866/185965249-72c1da1c-5d4e-495a-aaa6-24c8511d7faf.png">
 
 - Once in advanced settings we can go to the user data text box and input a list of instructions utilising the following command `#!/bin/bash` to initialise the script
 
+<img width="425" alt="binbash" src="https://user-images.githubusercontent.com/110179866/185965270-e932127a-063b-4d86-8050-bfa4fa2143b3.png">
 
 - Then we continue on and select the other relevant settings and launch our instance, this may take longer than usual considering we are installing as we up the instance
 
@@ -313,26 +316,30 @@ There are 28 Wavelength Zones available for ultralow latency and 5G processing.
 
 - Select your instance and click on actions and then images and templates and finally create image
 
-(image)
+<img width="856" alt="ami_image" src="https://user-images.githubusercontent.com/110179866/185965296-481985aa-c3dc-4daa-b573-9071011bfe56.png">
+
 
 - Next you will be prompted to fill in certain details as below 
 
-(image)
+
+<img width="709" alt="create_image" src="https://user-images.githubusercontent.com/110179866/185965321-dcbbd8f8-cd1d-4ddc-9fa6-435aab0f4fcc.png">
 
 
 - Be sure to follow the naming convention when naming your AMI as you would with instances
 
-(image)
+
+<img width="613" alt="naming_convention" src="https://user-images.githubusercontent.com/110179866/185965345-e36256f1-6fd6-4be0-8edc-0daa57ebc0d1.png">
 
 
 - Below is the location of where to find your AMI once it has been made
 
-(image)
+<img width="105" alt="ami location" src="https://user-images.githubusercontent.com/110179866/185965372-dd80d613-384b-4f94-933c-d87e2d2982d9.png">
 
 
 - This location will show you a list of all available AMI's
 
 
-(image)
 
+
+<img width="842" alt="all_amis" src="https://user-images.githubusercontent.com/110179866/185965388-f493c7c5-cff1-4b4c-b8ea-7cf9649c1d08.png">
 
