@@ -294,7 +294,9 @@ There are 28 Wavelength Zones available for ultralow latency and 5G processing.
 
 - Once we are at Step 3 of the above instance creation steps if we scroll down we can see advanced settings
 
+
 - Once in advanced settings we can go to the user data text box and input a list of instructions utilising the following command `#!/bin/bash` to initialise the script
+
 
 - Then we continue on and select the other relevant settings and launch our instance, this may take longer than usual considering we are installing as we up the instance
 
