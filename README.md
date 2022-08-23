@@ -343,3 +343,14 @@ There are 28 Wavelength Zones available for ultralow latency and 5G processing.
 
 <img width="842" alt="all_amis" src="https://user-images.githubusercontent.com/110179866/185965388-f493c7c5-cff1-4b4c-b8ea-7cf9649c1d08.png">
 
+
+# DISASTER RECOVERY
+
+### If any unexpected disasters occur we are prepared
+#### For a production environment, it is important to take precautions so that you can recover if there’s an unexpected event. While Amazon RDS provides a highly available Multi-AZ configuration, it can’t protect from every possibility, such as a natural disaster, a malicious actor, or logical corruption of a database. To maintain business continuity, it is important to design and test a DR plan.
+
+
+- Use multi AZ ie EU WEST 1a,b,c
+- Use multi region, Ireland aswell as London
+- If AWS goes down we use multi cloud deployment, AWS aswell as GCP/AZURE
+- Hybrid cloud - localhost AND public cloud 
