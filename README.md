@@ -345,6 +345,7 @@ There are 28 Wavelength Zones available for ultralow latency and 5G processing.
 
 
 # DISASTER RECOVERY
+![Blank diagram (6)](https://user-images.githubusercontent.com/110179866/186162202-7d931a49-215b-4141-b086-8e9060770bf0.jpeg)
 
 ### If any unexpected disasters occur we are prepared
 #### For a production environment, it is important to take precautions so that you can recover if there’s an unexpected event. While Amazon RDS provides a highly available Multi-AZ configuration, it can’t protect from every possibility, such as a natural disaster, a malicious actor, or logical corruption of a database. To maintain business continuity, it is important to design and test a DR plan.
