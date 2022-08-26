@@ -1,5 +1,7 @@
 # AWS Global Infrastructure
 
+![image](https://user-images.githubusercontent.com/110179866/186886048-c1450d37-44bf-4f76-b80c-d7bedf5eeeef.png)
+
 
 ### The AWS Global Cloud infrastructure is the backbone network of global data centres and other platforms that Amazon uses to deliver application workloads and AWS services.
 
